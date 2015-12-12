@@ -1,0 +1,10 @@
+PODS:
+  - FutureKit (1.2.0)
+
+DEPENDENCIES:
+  - FutureKit
+
+SPEC CHECKSUMS:
+  FutureKit: 21ebabf25bb174394dbac642889a96f937be45cd
+
+COCOAPODS: 0.39.0
